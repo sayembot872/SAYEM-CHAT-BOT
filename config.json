@@ -1,4 +1,4 @@
-{
+t{
   "Author": "SHAHADAT SAHU",
   "version": "2.0.1",
   "language": "en",
@@ -10,8 +10,8 @@
   "EMAIL": "your_email",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌Sayem 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "─꯭─⃝‌‌Sayem chat bot",
+  "PREFIX": "+",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
